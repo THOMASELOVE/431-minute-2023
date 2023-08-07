@@ -9,7 +9,7 @@ The first step is to complete the [Welcome to 431 Survey](https://bit.ly/431-202
 
 ## Minute Paper Assignments for 431 in Fall 2023
 
-During the semester, Professor Love will set a series of ten "minute papers" which are brief surveys asking you to help us better understand how the class is going, and to let us remind you of some things. The first Minute Paper is due after Class 3. Minute Papers are always due on Wednesdays, at noon.
+During the semester, Professor Love will set a series of ten "minute papers" which are brief surveys asking you to help us better understand how the class is going, and to let us remind you of some things. Minute Papers are always due on Wednesdays, at noon.
 
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 ----------: | :------: | :--------: | :----------:
