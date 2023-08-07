@@ -13,16 +13,16 @@ During the semester, Professor Love will set a series of ten "minute papers" whi
 
 After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 ----------: | :------: | :--------: | :----------:
-3 (09-05) | 2023-09-06 | to appear in September | to come
-5 (09-12) | 2023-09-13 | to come | to come
-9 (09-26) | 2023-09-27 | to come | to come
-11 (10-03) | 2023-10-04 | to come | to come
-13 (10-10) | 2023-10-11 | to come | to come
-15 (10-07) | 2023-10-18 | to come | to come
-18 (10-31) | 2023-11-01 | to come | to come
-21 (11-14) | 2023-11-15 | to come | to come
-23 (11-28) | 2023-11-29 | to come | to come
-25 (12-05) | 2023-12-06 | to come | to come
+3 (09-05) | 2023-09-06 | to appear 09-05 | to come
+5 (09-12) | 2023-09-13 | to appear 09-12 | to come
+9 (09-26) | 2023-09-27 | to appear 09-26 | to come
+11 (10-03) | 2023-10-04 | to appear 10-03 | to come
+13 (10-10) | 2023-10-11 | to appear 10-10 | to come
+15 (10-17) | 2023-10-18 | to appear 10-17 | to come
+18 (10-31) | 2023-11-01 | to appear 10-31 | to come
+21 (11-14) | 2023-11-15 | to appear 11-14 | to come
+23 (11-28) | 2023-11-29 | to appear 11-28 | to come
+25 (12-05) | 2023-12-06 | to appear 12-05 | to come
 
 - You'll need to be logged into Google via CWRU to complete the Minute Papers, or to review the feedback.
 
