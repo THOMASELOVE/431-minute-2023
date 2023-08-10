@@ -11,6 +11,10 @@ The first step is to complete the [Welcome to 431 Survey](https://bit.ly/431-202
 
 During the semester, Professor Love will set a series of ten "minute papers" which are brief surveys asking you to help us better understand how the class is going, and to let us remind you of some things. Minute Papers are always due on Wednesdays, at noon.
 
+- You **should** complete the Minute Paper even if you weren't able to attend the most recent class.
+- Only Professor Love sees the results of the Minute Papers with identifying information. He then summarizes findings without identifying people and addresses those as part of the README discussion in the Thursday class whenever possible.
+- Professor Love reserves the right to change the number of minute papers depending on how the class is going during the semester. 
+
 After Class | due at NOON on Wednesday | Link to Minute Paper Form | Link to Dr. Love's Feedback
 ----------: | :------: | :--------: | :----------:
 3 (09-05) | 2023-09-06 | to appear 09-05 | to come
