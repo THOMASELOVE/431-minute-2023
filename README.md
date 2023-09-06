@@ -33,8 +33,7 @@ After Class | due at NOON on Wednesday | Link to Minute Paper Form | Link to Dr.
 ## Deadlines and Late Work
 
 - All Minute Paper deadlines are in the [Course Calendar](https://thomaselove.github.io/431-2023/calendar.html).
-- Minute Papers that arrive up to 12 hours late (by 11:59 PM on Wednesday) will receive at most 80% credit. 
-- Minute Papers that are 12-24 hours late (up to noon Thursday) will receive at most 40% credit.
+- Minute Papers that are 1-24 hours late (up to noon Thursday) will receive at most 60% credit.
 - We will stop accepting minute papers 24 hours after the deadline.
 
 The main website for the Fall 2023 version of the 431 course is found at https://thomaselove.github.io/431-2023
