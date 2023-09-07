@@ -16,7 +16,7 @@ During the semester, Professor Love will set a series of ten "minute papers" whi
 - Professor Love reserves the right to change the number of minute papers depending on how the class is going during the semester. 
 
 After Class | due at NOON on Wednesday | Link to Minute Paper Form | Link to Dr. Love's Feedback
-----------: | :------: | :--------: | :----------:
+-----------: | :------: | :---------------------: | :--------------------------:
 3 (09-05) | 2023-09-06 | <https://bit.ly/431-2023-minute-3> | <https://bit.ly/431-2023-min-03-feedback>
 5 (09-12) | 2023-09-13 | to appear 09-12 | to come
 9 (09-26) | 2023-09-27 | to appear 09-26 | to come
