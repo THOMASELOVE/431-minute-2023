@@ -18,7 +18,7 @@ During the semester, Professor Love will set a series of ten "minute papers" whi
 After Class | due at NOON on Wednesday | Link to Minute Paper Form | Link to Dr. Love's Feedback
 -----------: | :------: | :---------------------: | :--------------------------:
 3 (09-05) | 2023-09-06 | <https://bit.ly/431-2023-minute-3> | <https://bit.ly/431-2023-min-03-feedback>
-5 (09-12) | 2023-09-13 | to appear 09-12 | to come
+5 (09-12) | 2023-09-13 | <https://bit.ly/431-2023-minute-5> | to come
 9 (09-26) | 2023-09-27 | to appear 09-26 | to come
 11 (10-03) | 2023-10-04 | to appear 10-03 | to come
 13 (10-10) | 2023-10-11 | to appear 10-10 | to come
