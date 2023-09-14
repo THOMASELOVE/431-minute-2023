@@ -15,10 +15,10 @@ During the semester, Professor Love will set a series of ten "minute papers" whi
 - Only Professor Love sees the results of the Minute Papers with identifying information. He then summarizes findings without identifying people and addresses those as part of the README discussion in the Thursday class whenever possible.
 - Professor Love reserves the right to change the number of minute papers depending on how the class is going during the semester. 
 
-After Class | due at NOON on Wednesday | Link to Minute Paper Form | Link to Dr. Love's Feedback
+After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Feedback
 -----------: | :------: | :---------------------: | :--------------------------:
 3 (09-05) | 2023-09-06 | <https://bit.ly/431-2023-minute-3> | <https://bit.ly/431-2023-min-03-feedback>
-5 (09-12) | 2023-09-13 | <https://bit.ly/431-2023-minute-5> | to come
+5 (09-12) | 2023-09-13 | <https://bit.ly/431-2023-minute-5> | <https://bit.ly/431-2023-min-05-feedback>
 9 (09-26) | 2023-09-27 | to appear 09-26 | to come
 11 (10-03) | 2023-10-04 | to appear 10-03 | to come
 13 (10-10) | 2023-10-11 | to appear 10-10 | to come
