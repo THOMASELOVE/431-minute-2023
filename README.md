@@ -12,7 +12,7 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 -----------: | :------: | :---------------------: | :--------------------------:
 3 (09-05) | 2023-09-06 | <https://bit.ly/431-2023-minute-3> | <https://bit.ly/431-2023-min-03-feedback>
 5 (09-12) | 2023-09-13 | <https://bit.ly/431-2023-minute-5> | <https://bit.ly/431-2023-min-05-feedback>
-9 (09-26) | 2023-09-27 | <https://bit.ly/431-2023-minute-9> | to come
+9 (09-26) | 2023-09-27 | <https://bit.ly/431-2023-minute-9> | <https://bit.ly/431-2023-min-09-feedback>
 11 (10-03) | 2023-10-04 | to appear 10-03 | to come
 13 (10-10) | 2023-10-11 | to appear 10-10 | to come
 15 (10-17) | 2023-10-18 | to appear 10-17 | to come
