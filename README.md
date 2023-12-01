@@ -19,7 +19,7 @@ After Class | due at NOON on | Link to Minute Paper Form | Link to Dr. Love's Fe
 18 (10-31) | 2023-11-01 | <https://bit.ly/431-2023-minute-18> | <https://bit.ly/431-2023-min-18-feedback>
 21 (11-14) | 2023-11-15 | Canceled | Canceled (all students got credit)
 23 (11-28) | 2023-11-29 | <https://bit.ly/431-2023-minute-23> | <https://bit.ly/431-2023-min-23-feedback>
-25 (12-05) | 2023-12-06 | to appear 12-05 | to come
+25 (12-05) | 2023-12-06 | <https://bit.ly/431-2023-minute-25> | to come
 
 - You'll need to be logged into Google via CWRU to complete the Minute Papers, or to review the feedback.
 
